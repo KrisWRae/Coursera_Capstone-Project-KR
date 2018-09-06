@@ -1,0 +1,12 @@
+Introduction:
+
+A restaurant owner would like to expand their business - in which part of the city should the next restaurant be located so they can generate the most revenue?
+
+To answer this question, the following considerations would have to be taken:
+
+1) Restaurant similarity (kmeans clustering by location, restaurant type)
+2) Local food preferences (use Foursquare API)
+3) Customers' willingness to travel
+4) Obtain sales/revenue data from a sample of restaurants (limited by data/services currently available)
+5) If revenue data is not available, find out which neighbourhoods get the most restaurant visits
+
